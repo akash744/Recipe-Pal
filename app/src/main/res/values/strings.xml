@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecipePal</string>
+    <string name="search">Search your Recipes</string>
 </resources>
